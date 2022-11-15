@@ -2,7 +2,8 @@
 This repository includes python code to perform sentence classification using Naïve Bayes Classifier with Laplace smoothing
 
 Requirements and dependencies:
-    1. numpy
+
+    1. numpy 
     2. sklearn.model_selection ---> train_test_split
     3. nltk
     4. nltk.corpus--->stopwords
